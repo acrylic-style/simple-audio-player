@@ -6,3 +6,4 @@
 2. edit `.env`
 3. `node register.js`
 4. `node index.js`
+5. do `/play <url>` in discord
